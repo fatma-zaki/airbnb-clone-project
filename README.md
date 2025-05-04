@@ -20,7 +20,7 @@ By completing this project, you will:
 
 ---
 
-## UI/UX Design Planning
+# UI/UX Design Planning
 ### Design Goals
 - **Create an intuitive booking flow**: Ensure a smooth user experience from browsing properties to making bookings.
 - **Maintain visual consistency**: Ensure that all pages and components follow a consistent design system.
